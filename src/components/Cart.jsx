@@ -23,7 +23,7 @@ function Cart() {
         <>
           <img
             className="mx-auto"
-            src="/public/assets/images/illustration-empty-cart.svg"
+            src="/assets/images/illustration-empty-cart.svg"
             alt=""
           />
           <p className="text-center">Your added item will appear here</p>
